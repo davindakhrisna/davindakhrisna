@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 "Make the fiction a reality"<br>👯 Collaborating with Gemfi 25'<br>🤝 Awardee IGGS 25'<br> <br>Nothing much to be seen here, its just my hobby <br>I hope you don't mind this :<br> 
-sudo bash <(curl -sL https://gist.githubusercontent.com/davindakhrisna/2af239ad4cb49fee9eace18027931c6f/raw/setup.sh )
+curl -s https://gist.githubusercontent.com/davindakhrisna/2af239ad4cb49fee9eace18027931c6f/raw/625b433eada9f9a56ff9d2891639b13df41716bc/setup.sh \
+| bash
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kryisnn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davindakhrisna85) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpeggio.gns@gmail.com) 
