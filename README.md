@@ -1,6 +1,10 @@
 <br clear="both">
 
-<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="left" height="210" src="https://i.pinimg.com/736x/25/ac/d8/25acd8e2a29af7169675981f12369a89.jpg"  />
+
+###
+
+<p align="left">Davinda Khrisna Adyatma</p>
 
 ###
 
