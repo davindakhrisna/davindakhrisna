@@ -1,13 +1,3 @@
-<br clear="both">
-
-<img align="left" height="210" src="https://i.pinimg.com/736x/25/ac/d8/25acd8e2a29af7169675981f12369a89.jpg"  />
-
-###
-
-<p align="left">Davinda Khrisna Adyatma</p>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
@@ -76,7 +66,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=davindakhrisna.davindakhrisna&left_text=visitors"  />
 </div>
 
