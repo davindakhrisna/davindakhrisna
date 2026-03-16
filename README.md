@@ -1,4 +1,6 @@
-<img align="left" height="250" src="https://i.imgflip.com/65efzo.gif"  />
+<br clear="both">
+
+<img align="left" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -70,7 +72,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=davindakhrisna.davindakhrisna&left_text=visitors"  />
 </div>
 
