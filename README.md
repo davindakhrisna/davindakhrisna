@@ -1,4 +1,3 @@
-```cpp
 /*
  *  User: [Your Username]
  *  Role: Competitive Programmer
